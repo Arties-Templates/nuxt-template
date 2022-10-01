@@ -775,7 +775,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/typography@npm:^0.5.7":
+"@tailwindcss/typography@npm:0.5.7":
   version: 0.5.7
   resolution: "@tailwindcss/typography@npm:0.5.7"
   dependencies:
@@ -1289,7 +1289,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"autoprefixer@npm:^10.4.11, autoprefixer@npm:^10.4.12":
+"autoprefixer@npm:10.4.12, autoprefixer@npm:^10.4.11":
   version: 10.4.12
   resolution: "autoprefixer@npm:10.4.12"
   dependencies:
@@ -4954,7 +4954,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.1.10, postcss@npm:^8.4.14, postcss@npm:^8.4.16, postcss@npm:^8.4.17":
+"postcss@npm:8.4.17, postcss@npm:^8.1.10, postcss@npm:^8.4.14, postcss@npm:^8.4.16":
   version: 8.4.17
   resolution: "postcss@npm:8.4.17"
   dependencies:
@@ -5282,11 +5282,11 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
-    "@tailwindcss/typography": ^0.5.7
-    autoprefixer: ^10.4.12
+    "@tailwindcss/typography": 0.5.7
+    autoprefixer: 10.4.12
     nuxt: 3.0.0-rc.11
-    postcss: ^8.4.17
-    tailwindcss: ^3.1.8
+    postcss: 8.4.17
+    tailwindcss: 3.1.8
   languageName: unknown
   linkType: soft
 
@@ -5712,7 +5712,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^3.1.8":
+"tailwindcss@npm:3.1.8":
   version: 3.1.8
   resolution: "tailwindcss@npm:3.1.8"
   dependencies:
