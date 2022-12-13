@@ -5,5 +5,8 @@ export default defineNuxtConfig({
     postcss: {
       postcssOptions: require('./postcss.config.js')
     }
-  }
+  },
+  modules: [
+    'nuxt-icon'
+  ]
 })
